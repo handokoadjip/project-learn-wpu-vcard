@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-learn-wpu-vcard/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-vcard or virtual card is a business card created using html and css that can be accessed by anyone in a browser
+Vcard or virtual card is a business card created using html and css that can be accessed by anyone in a browser
 
 This project is made to learn bootstrap and css. according to the name of the exercise, it is made using [Bootstrap 4.\*](https://getbootstrap.com/docs/4.0/getting-started/introduction/) framework.
 
