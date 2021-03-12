@@ -22,7 +22,7 @@ Just fork or download it from this repository then open with default browser.
 
 ## Usage example
 
-![Dashboard](http://bebaskripsi.000webhostapp.com/project-learn-wpu-vcard/home.png?)
+![Home](http://bebaskripsi.000webhostapp.com/project-learn-wpu-vcard/home.png?)
 
 _For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
 
