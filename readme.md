@@ -28,7 +28,7 @@ _For more examples and usage, please contact [Handoko Adji Pangestu](https://www
 
 ## Development setup
 
-No development setup, just copy this directory into the htdocs folder and run as usual.
+No development setup, just fork and download this directory and then open in default browser.
 
 ## Release History
 
