@@ -24,7 +24,7 @@ Just fork or download it from this repository then open with default browser.
 
 ![Home](http://bebaskripsi.000webhostapp.com/project-learn-wpu-vcard/home.png?)
 
-_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
+_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadp/)._
 
 ## Development setup
 
@@ -37,7 +37,7 @@ No development setup, just fork and download this directory and then open in def
 
 ## Meta
 
-Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadjip/) – handokoadjipangestu@gmail.com
+Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadp/) – handokoadjipangestu@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
