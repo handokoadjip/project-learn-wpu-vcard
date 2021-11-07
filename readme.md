@@ -37,7 +37,7 @@ No development setup, just fork and download this directory and then open in def
 
 ## Meta
 
-Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadp/) – handokoadjipangestu@gmail.com
+Handoko Adji Pangestu – [@handokoadp](https://www.instagram.com/handokoadp/) – handokoadjipangestu@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
